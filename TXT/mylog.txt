@@ -1,6 +1,8 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+
+# WEEK 00
 ZCZC W00 10 L03 GitHub related
 ZCZC W00 20 L00 General, etc.
 ZCZC W00 20 L01 SCELE/Discord related
@@ -11,6 +13,8 @@ ZCZC W00 60 L09 Weekly Assignments
 ZCZC W00 60 L10 Finish Assignment #00
 ZCZC W00 10 L41 TXT/mylog.txt related
 ZCZC W00 15 L87 Eating nasi uduk
+
+# WEEK 01
 ZCZC W01 240 L11 Completing Assignment #01
 ZCZC W01 15 L41 Update TXT/mylog.txt
 ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related
@@ -19,6 +23,8 @@ ZCZC W01 40 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W01 40 L61 Install/Reinstall/Restore/Backup Virtual Box
 ZCZC W01 20 L03 GitHub and git related, including commit, push, pull
 ZCZC W01 15 L87 Eat nasi padang
+
+# WEEK 02
 ZCZC W02 200 L02 CLASSROOM/ZOOM related
 ZCZC W02 300 L09 Complete Weekly Assignment
 ZCZC W02 20 L41 Update TXT/mylog.txt
@@ -30,3 +36,13 @@ ZCZC W02 50 L81 Listen to Jazz Music
 ZCZC W02 60 L73 Play chess with my friend
 ZCZC W02 15 L03 GitHub and git related, including commit, push, pull
 
+# WEEK 03
+ZCZC W03 200 L02 CLASSROOM/ZOOM related
+ZCZC W03 100 L09 Complete Weekly Assignment
+ZCZC W03 50 L73 Play Online Solitaire
+ZCZC W03 25 L73 Play Tetris
+ZCZC W03 480 L84 Sleep
+ZCZC W03 50 L70 Studying for Platform Based Programming Course
+ZCZC W03 25 L41 TXT/mylog.txt related
+ZCZC W03 30 L40 TXT/ related in general
+ZCZC W03 60 L06 Watched Videos on File Systems and Mounting/Unmounting Disks
