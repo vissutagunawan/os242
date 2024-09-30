@@ -46,3 +46,11 @@ ZCZC W03 50 L70 Studying for Platform Based Programming Course
 ZCZC W03 25 L41 TXT/mylog.txt related
 ZCZC W03 30 L40 TXT/ related in general
 ZCZC W03 60 L06 Watched Videos on File Systems and Mounting/Unmounting Disks
+
+# WEEK 04
+ZCZC W04 200 L02 CLASSROOM related
+ZCZC W04 100 L09 Complete Weekly Assignment
+ZCZC W04 100 L81 Listen to Classical Music
+ZCZC W04 30 L09 Checking Week 4's assignments
+ZCZC W04 45 L00 GSGS for Assignment
+
