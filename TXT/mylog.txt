@@ -54,3 +54,11 @@ ZCZC W04 100 L81 Listen to Classical Music
 ZCZC W04 30 L09 Checking Week 4's assignments
 ZCZC W04 45 L00 GSGS for Assignment
 
+# WEEK 05
+ZCZC W05 200 L02 CLASSROOM related
+ZCZC W05 100 L09 Complete Weekly Assignment
+ZCZC W05 100 L81 Listen to Classical Music
+ZCZC W05 30 L09 Checking Week 5's assignments
+ZCZC W05 45 L00 GSGS for Assignment
+ZCZC W05 180 L09 Spending way too long on watching about assignment
+ZCZC W05 40 L06 Watched some Videos
