@@ -62,3 +62,14 @@ ZCZC W05 30 L09 Checking Week 5's assignments
 ZCZC W05 45 L00 GSGS for Assignment
 ZCZC W05 180 L09 Spending way too long on watching about assignment
 ZCZC W05 40 L06 Watched some Videos
+
+# WEEK 06
+ZCZC W06 210 L01 SCELE/Discord related (Pop Quiz)
+ZCZC W06 50 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W06 35 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 10 L11 Assignment #01
+ZCZC W06 30 L12 Assignment #02
+ZCZC W06 30 L13 Assignment #03
+ZCZC W06 12 L14 Assignment #04
+ZCZC W06 40 L15 Assignment #05
