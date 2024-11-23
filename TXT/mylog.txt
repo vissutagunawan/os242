@@ -106,3 +106,14 @@ ZCZC W09 10 L11 Assignment #01
 ZCZC W09 30 L12 Assignment #02
 ZCZC W09 40 L13 Assignment #03
 ZCZC W09 94 L14 Assignment #04
+
+# WEEK 10
+
+ZCZC W10 30 L06 Watched Videos about OS
+ZCZC W10 50 L04 Searching and Adding Links to GHP for Week 7
+ZCZC W10 180 L09 PopQuiz
+ZCZC W10 100 L02 Kelas Hari Rabu
+ZCZC W10 10 L11 Assignment #01
+ZCZC W10 30 L12 Assignment #02
+ZCZC W10 40 L13 Assignment #03
+ZCZC W10 94 L14 Assignment #04
